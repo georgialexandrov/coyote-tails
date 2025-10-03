@@ -17,7 +17,7 @@ That's why it's used for writing code - nobody wants to lose work or be unable t
 # 2. Create git repo
   - git init .
 
-# 3. What is git congig
+# 3. What is git config
   - git set user.email wile@coyote.acme && git set user.name "Wile E. Coyote"
   - .git/config
   - ~/.gitconfig
