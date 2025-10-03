@@ -1,3 +1,3 @@
 chapter 2:
 
-Wile goes to catch the Road Runner
+Wile goes to catch the Road Runner unprepared.
